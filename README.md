@@ -1,0 +1,2 @@
+# fastai-zone
+core fastai
